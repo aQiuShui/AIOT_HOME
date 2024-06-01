@@ -1,0 +1,2 @@
+# AIOT_HOME
+这是一个智能家居的项目有web端和android端，通过MQTT实现了数据传输以及人脸识别的功能
